@@ -1,0 +1,2 @@
+# docs
+Aseprite documentation
